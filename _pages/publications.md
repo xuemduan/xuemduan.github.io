@@ -19,7 +19,3 @@ Tongfeng Guan, Kunli Zhang, __Xuemin Duan__, Hongying Zan, and Zhifang Sui.
 - [__TG network: a model that more effectively identifies the use of the auxiliary word “DE”__](https://xuemduan.github.io/publications/paper4) <br>
 Tongfeng Guan, Kunli Zhang, __Xuemin Duan__, Hongying Zan, and Zhifang Sui.
 <i>Chinese Lexical Semantics Workshop </i>. __CLSW 2019__. 
-
-
-
-[\* denotes equal contribution]
