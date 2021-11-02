@@ -7,12 +7,7 @@ permalink: /publication/paper1
 venue: 'Proceedings of the 19th Chinese National Conference on Computational Linguistics'
 paperurl: 'https://aclanthology.org/2020.ccl-1.108v2.pdf'
 citation: '<b>Xuemin Duan</b>, Hongying Zan*, Xiaojing Bai, and Christoph Zähner. <i>Proceedings of the 19th Chinese National Conference on Computational Linguistics</i>. <b>CCL 2020</b>.'
----
-#This paper is about the number 1. The number 2 is left for future work.
 
-#[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-#Recommended citation: 'Xuemin Duan, <b>Hongying Zan*</b>, Xiaojing Bai, and Christoph Zähner. <i>Proceedings of the 19th Chinese National Conference on #Computational Linguistics</i>. <b>CCL 2020</b>.'
 
 
 
