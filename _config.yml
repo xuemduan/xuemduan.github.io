@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xuemin Duan"
 title_separator          : "-"
 name                     : &name "Xuemin Duan"
-description              : &description "Master's student at the University of Copenhagen"
+description              : &description "PhD student at KU Leuven"
 url                      : https://xuemduan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "xuemduan/xuemduan.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xuemin Duan"
   avatar           : "ku.jpeg"
-  bio              : "Master's student at University of Copenhagen."
-  location         : "Copenhagen, Denmark"
+  bio              : "PhD student at KU Leuven"
+  location         : "Leuven, Belgium"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "npm838@alumni.ku.dk"
+  email            : "xuemin.duan@kuleuven.be"
   researchgate     :  
   uri              :
   bitbucket        :
