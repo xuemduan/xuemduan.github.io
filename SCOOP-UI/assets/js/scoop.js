@@ -98,7 +98,7 @@ function translateIt() {
     };
 
 
-    fetch('https://repulsive-loincloth-hare.cyclic.app/translate', { 
+    fetch('https://good-gray-caterpillar-robe.cyclic.app/translate', { 
         method: 'POST',
         headers: {
             'Content-Type': 'application/json' 
