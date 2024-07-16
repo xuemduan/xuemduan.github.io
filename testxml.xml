@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document>
+
   <title>Bridging the Gap between RDF and XML</title>
   <author>Sergey Melnik</author>
+
   <abstract>A proposal to provide RDF interpretation for XML</abstract>
+
   <section caption="Introduction">
- 	<p>The goal of this proposal is to facilitate the use of RDF mechanisms.</p>
- 	<p>It builds upon simplified syntax for RDF, but has a <em>broader</em> scope.</p>
+
+     <p>The goal of this proposal is to facilitate the use of RDF mechanisms
+        to access the information contained in a broad range of XML documents.</p>
+
+     <p>It builds upon a <a href="syntax.html">simplified syntax</a> for RDF,
+        but has a <em>broader</em> scope.</p>
+
   </section>
+
 </document>
