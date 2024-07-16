@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <title>Bridging the Gap between RDF and XML</title>
+  <author>Sergey Melnik</author>
+  <abstract>A proposal to provide RDF interpretation for XML</abstract>
+  <section caption="Introduction">
+ 	<p>The goal of this proposal is to facilitate the use of RDF mechanisms.</p>
+ 	<p>It builds upon simplified syntax for RDF, but has a <em>broader</em> scope.</p>
+  </section>
+</document>
