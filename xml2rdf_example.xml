@@ -1,0 +1,10 @@
+<?xml version="1.0">
+
+<student>
+  <id>r001</id>
+  <firstname>Alice</firstname>
+  <lastname>Smith</lastname>
+  <course name="webAI">
+ 	<grade>18</grade>
+  </course>
+</student>
